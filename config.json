@@ -1,0 +1,51 @@
+{ "sources": [
+{"center": 854000000.0,
+"rate":2400000.0,
+"error":-120800,
+"gain": 49,
+"antenna": "TX/RX",
+"digitalRecorders":6,
+"analogRecorders":0,
+"driver": "osmosdr",
+"device": "rtl=00000001,buffers=64,buflen=8192"},
+
+{"center": 856000000.0,
+"rate":2400000.0,
+"error":-57000,
+"gain": 49,
+"antenna": "TX/RX",
+"digitalRecorders":6,
+"analogRecorders":0,
+"driver": "osmosdr",
+"device": "rtl=00000002,buffers=64,buflen=8192"},
+
+{"center": 858000000.0,
+"rate":2400000.0,
+"error":-68500,
+"gain": 49,
+"antenna": "TX/RX",
+"digitalRecorders":6,
+"analogRecorders":0,
+"driver": "osmosdr",
+"device": "rtl=00000003,buffers=64,buflen=8192"},
+
+{"center": 860000000.0,
+"rate":2400000.0,
+"error":-43900,
+"gain": 49,
+"antenna": "TX/RX",
+"digitalRecorders":6,
+"analogRecorders":0,
+"driver": "osmosdr",
+"device": "rtl=00000004,buffers=64,buflen=8192"}
+
+],
+
+
+"system": {
+	"control_channels": [857037500],
+	"type": "p25"
+	},
+"talkgroupsFile": "ChanList.csv"
+}
+
