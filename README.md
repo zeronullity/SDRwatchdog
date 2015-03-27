@@ -1,5 +1,5 @@
 ***UNDER CONSTRUCTION***
-Currently only supports SMARTNET/P25 trunk recording.
+Currently only supports SMARTNET/P25 trunk recording with multiple SDR devices on a single trunking system.
 
 SDR watchdog
 =================
