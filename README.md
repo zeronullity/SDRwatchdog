@@ -10,9 +10,9 @@ SDR watchdog
  - OP-25
 
 ##Compile
-cd SDRwatchdog
-cmake .
-make -j (number of threads)
+ cd SDRwatchdog
+ cmake .
+ make -j (number of threads)
 
 
 ##Configure
